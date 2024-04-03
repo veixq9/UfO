@@ -39,6 +39,10 @@ https://magiceden.io/marketplace/homeless_club
 some other links y'all may find helpful or inspiring:
 
 https://www.youtube.com/@SoftWhiteUnderbelly
+
+
 https://kaeltehilfe-berlin.de/
+
+
 ** link to discussion of charity-control-systems of biopolitical state-machines goes here **
 

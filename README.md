@@ -34,3 +34,11 @@ https://convex.world/  may give y'all an idea of how one may build and run a who
 
 for instance issuance of NFTs (non-fungible tokens) for multiple purposes (promoting artists, raising awareness through aesthetically transduced forms, issuance of tickets & memoribilia, keeping track of a log of history of the org's activities...)
 https://magiceden.io/marketplace/homeless_club
+
+# misc
+some other links y'all may find helpful or inspiring:
+
+https://www.youtube.com/@SoftWhiteUnderbelly
+https://kaeltehilfe-berlin.de/
+** link to discussion of charity-control-systems of biopolitical state-machines goes here **
+

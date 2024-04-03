@@ -17,4 +17,6 @@ https://github.com/veixq9/indexes
 i suggest looking into the following for online management of group discussions & chats:
 https://revolt.chat/
 which is an open-source alternative to more widely known 'discord.app'
+
+'gitter', 'zulip', 'matrix', ... for public and private chatting, bulletins, announcements, ...
 https://gitter.im/

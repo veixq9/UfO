@@ -1,5 +1,8 @@
 # UfO
 @people
+
+here i present some examples to show what is possible
+
 tis indexes to certain politico-analytic works:
 
 https://veixq9.github.io/indexes/public/indexes/index.html

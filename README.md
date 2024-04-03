@@ -1,5 +1,5 @@
 # UfO
-@people
+@people.UfO
 
 here i present some examples to show what is possible
 

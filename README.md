@@ -1,5 +1,5 @@
 # UfO
-
+@people
 tis indexes to certain politico-analytic works:
 
 https://veixq9.github.io/indexes/public/indexes/index.html

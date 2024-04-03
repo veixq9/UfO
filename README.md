@@ -25,6 +25,6 @@ which is an open-source alternative to more widely known 'discord.app'
 https://gitter.im/
 
 
-schliessfaecher?!
-https://convex.world/sandbox
+schliessfaecher and flying donuts?!
+https://convex.world/
 convex.world may give y'all an idea of how one may build and run a whole government together with a legal system, legal tender tokens, acts, inflationary currency, novel taxation contracts, voting mechanisms, registry systems, ..., on a live replicable system.

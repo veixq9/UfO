@@ -2,7 +2,7 @@
 @people.UfO
 
 <div style="margin-left:auto;margin-right:auto">
-    <img src="https://zeitdersolidaritaet.de/wp-content/uploads/2023/08/flyer-ufo-deutsch-1-848x1200.png" alt="drawing" style="width:200px"/>
+    <img src="https://zeitdersolidaritaet.de/wp-content/uploads/2023/08/flyer-ufo-deutsch-1-848x1200.png" alt="drawing" style="width:200px" align="center"/>
 </div>
 
 

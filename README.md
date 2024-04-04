@@ -48,3 +48,6 @@ https://www.amazon.de/-/en/Giorgio-Agamben/dp/0804732183
 
 ** link to discussion of charity-control-systems of biopolitical state-machines goes here **
 
+# proposals for forks and branches
+Unidentified _floating_ Object
+\#barring-geometrical-metaphors Unidentified _errant_ Object

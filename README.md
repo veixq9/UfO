@@ -81,7 +81,7 @@ https://kaeltehilfe-berlin.de/
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCpu6EgJnBz1JQc0ifK-6_yBFnuk-_MGMVRQVGYJQ0gw&s"/>
 
-<img src="https://c0.klipartz.com/pngpicture/733/677/sticker-png-applejack-rainbow-dash-apple-cider-pony-inflation-body-food-orange-balloon-cartoon-fictional-character-thumbnail.png"/>
+<img src="https://m.media-amazon.com/images/I/613XUsoH9gL._SL1500_.jpg"/>
 
 
 # proposals for forks and branches

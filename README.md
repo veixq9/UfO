@@ -43,9 +43,17 @@ schliessfaecher and flying donuts?!
 https://convex.world/  may give y'all an idea of how one may build and run a whole government together with a legal system, legal tender tokens, acts, inflationary currency, novel taxation contracts, voting mechanisms, registry systems, ..., on a live replicable system.
 
 for instance issuance of NFTs (non-fungible tokens) for multiple purposes (promoting artists, raising awareness through aesthetically transduced forms, issuance of tickets & memoribilia, keeping track of a log of history of the org's activities...)
+
+
 https://magiceden.io/marketplace/homeless_club
+
+
 https://magiceden.io/collections/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e%3Aopensea-cryptohomelessdegens
+
+
 https://magiceden.io/collections/ethereum/0x3776804b6f26a98b8f263c1b6164336c14b0de2e
+
+
 # misc
 some other links y'all may find helpful or inspiring:
 

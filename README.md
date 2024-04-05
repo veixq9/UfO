@@ -78,12 +78,9 @@ https://kaeltehilfe-berlin.de/
 
 
 
-** link to discussion of charity-control-systems of biopolitical trickle-piss-crucifix-economy of control-state-machines goes here together with pictures of rabies infected EZB-crime laundering machine and færændly pisstitmother carrot re-warded ordnungs-next Queued-bots**
+** link to discussion of charity-control-systems of biopolitical trickle-piss-crucifix-economy of control-state-machines goes here together with pictures of rabies infected EZB-crime laundering machine and færændly pisstitmother carrot re-warded ordnungs-next Queued-bots, not to mention the toorchish actress gartenzwerg "oh i can't see" konzentrations-lager-base-ball lawyer **
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCpu6EgJnBz1JQc0ifK-6_yBFnuk-_MGMVRQVGYJQ0gw&s"/>
-
-
-
 <img src="https://i.ebayimg.com/images/g/6-MAAOSwp2NksEDl/s-l400.jpg" alt="drawing" style="width:200px" align="center" />
 
 

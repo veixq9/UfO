@@ -75,7 +75,11 @@ https://kaeltehilfe-berlin.de/
 </a>
 
 
+
+
 ** link to discussion of charity-control-systems of biopolitical trickle-piss-crucifix-economy of control-state-machines goes here together with pictures of rabies infected EZB-crime laundering machine and færændly pisstitmother carrot re-warded ordnungs-next **
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCpu6EgJnBz1JQc0ifK-6_yBFnuk-_MGMVRQVGYJQ0gw&s"/>
 
 # proposals for forks and branches
 ## names

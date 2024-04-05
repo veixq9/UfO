@@ -19,7 +19,7 @@ as you can see the website is hosted on github.io.
 here is the code to the 'index' website which is served by 'com.github':
 https://github.com/veixq9/indexes
 
-'github' itself implements the 'git' protocol, which is a system for managing data versioning.
+'github' itself reifies the 'git' protocol, which is a system for managing data versioning.
 
 i suggest looking into the following for online management of group discussions & chats:
 https://revolt.chat/

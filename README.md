@@ -19,12 +19,14 @@ as you can see the website is hosted on github.io.
 here is the code to the 'index' website which is served by 'com.github':
 https://github.com/veixq9/indexes
 
+
+'github' itself reifies the 'git' protocol, which is a system for managing data versioning.
+
+
 <div style="margin-left:auto;margin-right:auto">
   <p align="center">  <img src="https://miro.medium.com/v2/resize:fit:932/1*odxtilqfN40uE5hfGAJWPQ.png" alt="drawing" style="width:200px" align="center"/>
   </p>
 </div>
-
-'github' itself reifies the 'git' protocol, which is a system for managing data versioning.
 
 
 i suggest looking into the following for online management of group discussions & chats:

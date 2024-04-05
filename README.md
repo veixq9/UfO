@@ -61,7 +61,11 @@ https://www.youtube.com/@SoftWhiteUnderbelly
 
 https://kaeltehilfe-berlin.de/
 
-https://www.amazon.de/-/en/Giorgio-Agamben/dp/0804732183
+<a href="https://www.amazon.de/-/en/Giorgio-Agamben/dp/0804732183">
+  
+ <img src="https://m.media-amazon.com/images/I/61s1pplO-XL._SL1500_.jpg" alt="drawing" style="width:200px" align="center"/>
+</a>
+
 
 
 <a href="https://www.amazon.de/Ausnahmezustand-Homo-sacer-II-1-suhrkamp/dp/3518123661/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2G0HUZ0CFUPI2&dib=eyJ2IjoiMSJ9.TEiiI8ND6-q1DtuaZEMtuKVrDuBSHM_wOLHjbA7ylmd8vW2nRTIq0MFnJvrPuliVdhLBTjDmv69jc7GNE2vqwwDg5y6aYZwpZtkGYFLQVUi884nzxEdS5HdcG8N2oMOd65VzF7RcaQO5Z1seBdfzFAi6PhE1bx5DUlGpvFcIHHg2_oew2UCvfLwWl6oubCioH8-9npuvDFhRjTnbtsedI1GQLJBCi8xesJsLmLJ8_uk.GIoUHDCL8vF_deIDSkB4DhYeEHOn2nDIpZ_VyMr_1Ks&dib_tag=se&keywords=ausnahmezustand+agamben&qid=1712314012&sprefix=ausnahmezustand+agambe%2Caps%2C165&sr=8-1">
@@ -69,6 +73,8 @@ https://www.amazon.de/-/en/Giorgio-Agamben/dp/0804732183
   
  <img src="https://m.media-amazon.com/images/I/613XUsoH9gL._SL1500_.jpg" alt="drawing" style="width:200px" align="center"/>
 </a>
+
+
 ** link to discussion of charity-control-systems of biopolitical state-machines goes here **
 
 # proposals for forks and branches

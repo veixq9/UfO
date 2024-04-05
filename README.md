@@ -16,7 +16,7 @@ https://veixq9.github.io/indexes/public/indexes/index.html
 
 as you can see the website is hosted on github.io.
 
-here is the code to the 'index' website which lives on github.com:
+here is the code to the 'index' website which is served by 'com.github':
 https://github.com/veixq9/indexes
 
 'github' itself implements the 'git' protocol, which is a system for managing data versioning.

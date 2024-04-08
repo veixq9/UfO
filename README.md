@@ -6,7 +6,7 @@
   </p>
 </div>
 
-[![Watch the video](https://www.youtube.com/embed/OmAk4ltJ1F4?si=kWqhcs2wnseFGIAO)](https://youtu.be/nTQUwghvy5Q)
+[![ GTA V - DMT trip ](https://www.youtube.com/embed/OmAk4ltJ1F4?si=kWqhcs2wnseFGIAO)](https://youtu.be/nTQUwghvy5Q)
 
 here i present some examples to show what is possible
 

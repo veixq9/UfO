@@ -56,9 +56,9 @@ https://magiceden.io/collections/ethereum/0x3776804b6f26a98b8f263c1b6164336c14b0
 # misc
 some other links y'all may find helpful or inspiring:
 
-https://www.youtube.com/@SoftWhiteUnderbelly
-
 https://kaeltehilfe-berlin.de/
+
+https://www.youtube.com/@SoftWhiteUnderbelly
 
 <a href="https://www.amazon.de/-/en/Giorgio-Agamben/dp/0804732183">
   

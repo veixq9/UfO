@@ -74,7 +74,7 @@ https://www.youtube.com/@SoftWhiteUnderbelly
  
 </a>
 
-[![ GTA V - DMT trip ](https://www.youtube.com/embed/OmAk4ltJ1F4?si=kWqhcs2wnseFGIAO)](https://youtu.be/nTQUwghvy5Q)
+[![ GTA V - DMT trip ](https://youtu.be/OmAk4ltJ1F4)](https://youtu.be/OmAk4ltJ1F4)
 
 ** link to discussion of charity-control-systems of biopolitical trickle-piss-crucifix-economy of control-state-machines goes here together with pictures of rabies infected EZB-crime laundering machine and færændly pisstitmother carrot re-warded ordnungs-next Queued-bots, not to mention the toorchish actress gartenzwerg "oh i can't see" konzentrations-lager-base-ball lawyer having the suppressed end up at respielraum with control in their hands **
 

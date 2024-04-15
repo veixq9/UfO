@@ -6,7 +6,7 @@
   </p>
 </div>
 
-
+# technical
 here i present some examples to show what is possible
 
 tis indexes to certain politico-analytic works:

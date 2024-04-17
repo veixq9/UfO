@@ -3,7 +3,7 @@
 
 <div style="margin-left:auto;margin-right:auto">
   <p align="center">
-;; <img src="https://zeitdersolidaritaet.de/wp-content/uploads/2023/08/flyer-ufo-deutsch-1-848x1200.png" alt="drawing" style="width:200px" align="center"/>
+ <!-- <img src="https://zeitdersolidaritaet.de/wp-content/uploads/2023/08/flyer-ufo-deutsch-1-848x1200.png" alt="drawing" style="width:200px" align="center"/> -->
 <img src="https://as1.ftcdn.net/v2/jpg/02/94/47/40/1000_F_294474007_aMXFhHTbdiYf4qQzbLyFblXJfpJGXQsy.jpg" alt="drawing" style="width:200px" align="center"/>
   </p>
 </div>

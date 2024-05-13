@@ -1,5 +1,5 @@
 # UfO
-NOTE: there is ____no reason not to come to the conclusion that UfO is not____ yet another circle-jerk-unit of parochial little-helpers content with what the goverment has to offer their snouts; with no desire for openness for the sake of serious development.
+NOTE: there is ____no reason not to come to the conclusion that UfO is not____ yet another circle-jerk-unit of parochial little-helpers content with what the goverment has to jiggle before their snouts; with no desire for openness for the sake of serious development.
 like every single charity shitshow, this too is in fact the exception in service to the official rule of misery and political marginalization of whatever does not submit to the status quo and the reek of diesel bucks emanating from social security and you-know-what.
 
 <div style="margin-left:auto;margin-right:auto">

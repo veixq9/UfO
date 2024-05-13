@@ -63,6 +63,8 @@ https://www.youtube.com/@SoftWhiteUnderbelly
 
 
 
+<br>
+
 <a href="https://www.amazon.de/Ausnahmezustand-Homo-sacer-II-1-suhrkamp/dp/3518123661/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2G0HUZ0CFUPI2&dib=eyJ2IjoiMSJ9.TEiiI8ND6-q1DtuaZEMtuKVrDuBSHM_wOLHjbA7ylmd8vW2nRTIq0MFnJvrPuliVdhLBTjDmv69jc7GNE2vqwwDg5y6aYZwpZtkGYFLQVUi884nzxEdS5HdcG8N2oMOd65VzF7RcaQO5Z1seBdfzFAi6PhE1bx5DUlGpvFcIHHg2_oew2UCvfLwWl6oubCioH8-9npuvDFhRjTnbtsedI1GQLJBCi8xesJsLmLJ8_uk.GIoUHDCL8vF_deIDSkB4DhYeEHOn2nDIpZ_VyMr_1Ks&dib_tag=se&keywords=ausnahmezustand+agamben&qid=1712314012&sprefix=ausnahmezustand+agambe%2Caps%2C165&sr=8-1">
 
 
@@ -70,13 +72,10 @@ https://www.youtube.com/@SoftWhiteUnderbelly
  
 </a>
 
-[![ GTA V - DMT trip ](https://youtu.be/OmAk4ltJ1F4)](https://youtu.be/OmAk4ltJ1F4)
-
 ** link to discussion of charity-control-systems of biopolitical trickle-piss-crucifix-economy of control-state-machines goes here together with pictures of rabies infected EZB-crime laundering machine and færændly pisstitmother carrot re-warded ordnungs-next Queued-bots, not to mention the toorchish actress gartenzwerg "oh i can't see" konzentrations-lager-base-ball lawyer having the suppressed end up at respielraum with control in their hands **
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCpu6EgJnBz1JQc0ifK-6_yBFnuk-_MGMVRQVGYJQ0gw&s"/><img src="https://i.ebayimg.com/images/g/6-MAAOSwp2NksEDl/s-l400.jpg" alt="drawing" style="width:200px" align="center" />
 
-[![ axiom NEED ](https://youtu.be/IzUyYkakm4Q)](https://youtu.be/IzUyYkakm4Q)
 
 ## FUN
 schliessfaecher and flying donuts?!
@@ -92,3 +91,9 @@ https://magiceden.io/collections/ethereum/0x495f947276749ce646f68ac8c248420045cb
 
 
 https://magiceden.io/collections/ethereum/0x3776804b6f26a98b8f263c1b6164336c14b0de2e
+
+
+[![ GTA V - DMT trip ](https://youtu.be/OmAk4ltJ1F4)](https://youtu.be/OmAk4ltJ1F4)
+
+
+[![ axiom NEED ](https://youtu.be/IzUyYkakm4Q)](https://youtu.be/IzUyYkakm4Q)

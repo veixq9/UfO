@@ -1,9 +1,11 @@
 # UfO
-NOTE: there is ____no reason not to come to the conclusion that UfO is not____ yet another circle-jerk-unit of parochial little-helpers content with what an EZB-State has to jiggle before their snouts; with no desire for openness for the sake of clarity & serious development.
+<!-- NOTE: there is ____no reason not to come to the conclusion that UfO is not____ yet another circle-jerk-unit of parochial little-helpers content with what an EZB-State has to jiggle before their snouts; with no desire for openness for the sake of clarity & serious development.
 like every single charity shitshow, this too is an exception serving the rule of misery and marginalization of whatever does not submit to the status quo. the reeking aura of diesel bucks emanating from control-society-units and you-know-what will never be washed away with whatever many hollywood movies funded by whatever you know whatever.
 
 <div style="margin-left:auto;margin-right:auto">
   <p align="center">
+  -->
+  
  <!-- <img src="https://zeitdersolidaritaet.de/wp-content/uploads/2023/08/flyer-ufo-deutsch-1-848x1200.png" alt="drawing" style="width:200px" align="center"/> -->
 <img src="https://as1.ftcdn.net/v2/jpg/02/94/47/40/1000_F_294474007_aMXFhHTbdiYf4qQzbLyFblXJfpJGXQsy.jpg" alt="drawing" style="width:200px" align="center"/>
   </p>

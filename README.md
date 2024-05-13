@@ -50,7 +50,7 @@ https://gitter.im/
 https://convex.world/  may give y'all an idea (and absolutely no communication message specification!!!) of how one may build and run a whole government together with a legal system, legal tender tokens, acts, inflationary currency, novel taxation contracts, voting mechanisms, registry systems, ..., on a live replicable system.
 
 # misc
-some other links y'all may find helpful or inspiring:
+as it turns UfO is supposedly non-secretly funded by https://www.deutsche-stiftung-engagement-und-ehrenamt.de/
 
 https://kaeltehilfe-berlin.de/
 

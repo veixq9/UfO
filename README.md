@@ -25,7 +25,7 @@ here is the code to the 'index' website which is served by 'com.github':
 https://github.com/veixq9/indexes
 
 -->
-'github' itself reifies the 'git' protocol, which is a system for managing data versioning.
+whatever website needed could be easily hosted on a git-managed system such as github for open collaboration. 'github' itself reifies the 'git' protocol, which is a system for managing data versioning.
 
 
 <div style="margin-left:auto;margin-right:auto">

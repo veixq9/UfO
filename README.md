@@ -1,4 +1,5 @@
 # UfO
+as it turns UfO is supposedly non-secretly funded by https://www.deutsche-stiftung-engagement-und-ehrenamt.de/
 <!-- NOTE: there is ____no reason not to come to the conclusion that UfO is not____ yet another circle-jerk-unit of parochial little-helpers content with what an EZB-State has to jiggle before their snouts; with no desire for openness for the sake of clarity & serious development.
 like every single charity shitshow, this too is an exception serving the rule of misery and marginalization of whatever does not submit to the status quo. the reeking aura of diesel bucks emanating from control-society-units and you-know-what will never be washed away with whatever many hollywood movies funded by whatever you know whatever.
 

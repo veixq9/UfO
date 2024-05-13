@@ -44,6 +44,10 @@ which is an open-source alternative to more widely known 'discord.app'
 'gitter', 'zulip', 'matrix', ... for public and private chatting, bulletins, announcements, ...
 https://gitter.im/
 
+## beyond geoterritorial systems of suppression & subtle continuation of neo-colonial rule
+"hurr durr one africa one love hurr durrr i"
+
+https://convex.world/  may give y'all an idea (and absolutely no communication message specification!!!) of how one may build and run a whole government together with a legal system, legal tender tokens, acts, inflationary currency, novel taxation contracts, voting mechanisms, registry systems, ..., on a live replicable system.
 
 ## misc
 some other links y'all may find helpful or inspiring:
@@ -75,8 +79,6 @@ https://www.youtube.com/@SoftWhiteUnderbelly
 ### fun
 schliessfaecher and flying donuts?!
 
-
-https://convex.world/  may give y'all an idea (and absolutely no comm.msg specification!!!) of how one may build and run a whole government together with a legal system, legal tender tokens, acts, inflationary currency, novel taxation contracts, voting mechanisms, registry systems, ..., on a live replicable system.
 
 for instance issuance of NFTs (non-fungible tokens) for multiple purposes (promoting artists, raising awareness through aesthetically transduced forms, issuance of tickets & memoribilia, keeping track of a log of history of the org's activities...)
 

@@ -25,6 +25,7 @@ here is the code to the 'index' website which is served by 'com.github':
 https://github.com/veixq9/indexes
 
 -->
+## website
 whatever website needed could be easily hosted on a git-managed system such as github for open collaboration. 'github' itself reifies the 'git' protocol, which is a system for managing data versioning.
 
 
@@ -33,7 +34,7 @@ whatever website needed could be easily hosted on a git-managed system such as g
   </p>
 </div>
 
-
+## chat & bulletin board
 i suggest looking into the following for online management of group discussions & chats:
 https://revolt.chat/
 which is an open-source alternative to more widely known 'discord.app'
@@ -42,24 +43,7 @@ which is an open-source alternative to more widely known 'discord.app'
 https://gitter.im/
 
 
-schliessfaecher and flying donuts?!
-
-
-https://convex.world/  may give y'all an idea of how one may build and run a whole government together with a legal system, legal tender tokens, acts, inflationary currency, novel taxation contracts, voting mechanisms, registry systems, ..., on a live replicable system.
-
-for instance issuance of NFTs (non-fungible tokens) for multiple purposes (promoting artists, raising awareness through aesthetically transduced forms, issuance of tickets & memoribilia, keeping track of a log of history of the org's activities...)
-
-
-https://magiceden.io/marketplace/homeless_club
-
-
-https://magiceden.io/collections/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e%3Aopensea-cryptohomelessdegens
-
-
-https://magiceden.io/collections/ethereum/0x3776804b6f26a98b8f263c1b6164336c14b0de2e
-
-
-# misc
+## misc
 some other links y'all may find helpful or inspiring:
 
 https://kaeltehilfe-berlin.de/
@@ -85,6 +69,23 @@ https://www.youtube.com/@SoftWhiteUnderbelly
 ** link to discussion of charity-control-systems of biopolitical trickle-piss-crucifix-economy of control-state-machines goes here together with pictures of rabies infected EZB-crime laundering machine and færændly pisstitmother carrot re-warded ordnungs-next Queued-bots, not to mention the toorchish actress gartenzwerg "oh i can't see" konzentrations-lager-base-ball lawyer having the suppressed end up at respielraum with control in their hands **
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCpu6EgJnBz1JQc0ifK-6_yBFnuk-_MGMVRQVGYJQ0gw&s"/><img src="https://i.ebayimg.com/images/g/6-MAAOSwp2NksEDl/s-l400.jpg" alt="drawing" style="width:200px" align="center" />
+
+### fun
+schliessfaecher and flying donuts?!
+
+
+https://convex.world/  may give y'all an idea of how one may build and run a whole government together with a legal system, legal tender tokens, acts, inflationary currency, novel taxation contracts, voting mechanisms, registry systems, ..., on a live replicable system.
+
+for instance issuance of NFTs (non-fungible tokens) for multiple purposes (promoting artists, raising awareness through aesthetically transduced forms, issuance of tickets & memoribilia, keeping track of a log of history of the org's activities...)
+
+
+https://magiceden.io/marketplace/homeless_club
+
+
+https://magiceden.io/collections/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e%3Aopensea-cryptohomelessdegens
+
+
+https://magiceden.io/collections/ethereum/0x3776804b6f26a98b8f263c1b6164336c14b0de2e
 
 
 # proposals for forks and branches

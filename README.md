@@ -12,7 +12,7 @@ like every single charity shitshow, this too is in fact the exception in service
 </div>
 
 
-claps for UfO charity moths who will never be fooled into the other (fudgepackers welcome)
+claps for UfO charity moths who will never be fooled into the other (fudgepacker kidtrats welcome)
 
 
 # TEKHNE

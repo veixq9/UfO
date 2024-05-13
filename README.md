@@ -92,11 +92,3 @@ https://magiceden.io/collections/ethereum/0x495f947276749ce646f68ac8c248420045cb
 
 
 https://magiceden.io/collections/ethereum/0x3776804b6f26a98b8f263c1b6164336c14b0de2e
-
-
-# proposals for forks and branches
-## names
-### IO action
-1. Unidentified _floating_ Object
-> \#barring-geometrical-metaphors
-2. Unidentified _errant_ Object

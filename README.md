@@ -1,6 +1,7 @@
 # UfO
 NOTE: there is no reason not to come to the conclusion that UfO is yet another circle-jerk-unit of parochial little-helpers content with what the goverment has to offer their snouts; with no desire for openness for the sake of serious development.
 like every single charity shitshow, this too is in fact the exception in service to the official rule of misery and political marginalization of whatever does not submit to the status quo.
+claps for UfO charity moths who will never be fooled into the other (fudgepackers welcome)
 
 
 <div style="margin-left:auto;margin-right:auto">
@@ -10,8 +11,7 @@ like every single charity shitshow, this too is in fact the exception in service
   </p>
 </div>
 
-# technical claps for UfO charity moths who will never be fooled into the other (fudgepackers welcome)
-
+# TEKHNE
 
 [![ axiom NEED ](https://youtu.be/IzUyYkakm4Q)](https://youtu.be/IzUyYkakm4Q)
 
@@ -48,7 +48,7 @@ https://gitter.im/
 
 https://convex.world/  may give y'all an idea (and absolutely no communication message specification!!!) of how one may build and run a whole government together with a legal system, legal tender tokens, acts, inflationary currency, novel taxation contracts, voting mechanisms, registry systems, ..., on a live replicable system.
 
-## misc
+# misc
 some other links y'all may find helpful or inspiring:
 
 https://kaeltehilfe-berlin.de/
@@ -75,7 +75,7 @@ https://www.youtube.com/@SoftWhiteUnderbelly
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCpu6EgJnBz1JQc0ifK-6_yBFnuk-_MGMVRQVGYJQ0gw&s"/><img src="https://i.ebayimg.com/images/g/6-MAAOSwp2NksEDl/s-l400.jpg" alt="drawing" style="width:200px" align="center" />
 
-### fun
+## fun
 schliessfaecher and flying donuts?!
 
 

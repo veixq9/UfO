@@ -78,10 +78,8 @@ https://www.youtube.com/@SoftWhiteUnderbelly
 
 
 ## FUN
-schliessfaecher and flying donuts?!
 
-
-for instance issuance of NFTs (non-fungible tokens) for multiple purposes (promoting artists, raising awareness through aesthetically transduced forms, issuance of tickets & memoribilia, keeping track of a log of history of the org's activities...)
+issuance of NFTs (non-fungible tokens) for multiple purposes (promoting artists, raising awareness through aesthetically transduced forms, issuance of tickets & memoribilia, keeping track of a log of history of the org's activities...)
 
 
 https://magiceden.io/marketplace/homeless_club

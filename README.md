@@ -8,8 +8,12 @@
   </p>
 </div>
 
-# technical
-here i present some examples to show what is possible
+# technical help for christian charity mothroaches&co of UfO who will never be foolported into any other
+
+
+[![ GTA V - DMT trip ](https://youtu.be/IzUyYkakm4Q)](https://youtu.be/IzUyYkakm4Q)
+
+<!-- here i present some examples to show what is possible
 
 tis indexes to certain politico-analytic works:
 
@@ -20,7 +24,7 @@ as you can see the website is hosted on github.io.
 here is the code to the 'index' website which is served by 'com.github':
 https://github.com/veixq9/indexes
 
-
+-->
 'github' itself reifies the 'git' protocol, which is a system for managing data versioning.
 
 

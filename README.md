@@ -17,7 +17,6 @@ claps for UfO charity moths who will never be fooled into the other (fudgepacker
 
 # TEKHNE
 
-[![ axiom NEED ](https://youtu.be/IzUyYkakm4Q)](https://youtu.be/IzUyYkakm4Q)
 
 <!-- here i present some examples to show what is possible
 
@@ -78,6 +77,8 @@ https://www.youtube.com/@SoftWhiteUnderbelly
 ** link to discussion of charity-control-systems of biopolitical trickle-piss-crucifix-economy of control-state-machines goes here together with pictures of rabies infected EZB-crime laundering machine and færændly pisstitmother carrot re-warded ordnungs-next Queued-bots, not to mention the toorchish actress gartenzwerg "oh i can't see" konzentrations-lager-base-ball lawyer having the suppressed end up at respielraum with control in their hands **
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCpu6EgJnBz1JQc0ifK-6_yBFnuk-_MGMVRQVGYJQ0gw&s"/><img src="https://i.ebayimg.com/images/g/6-MAAOSwp2NksEDl/s-l400.jpg" alt="drawing" style="width:200px" align="center" />
+
+[![ axiom NEED ](https://youtu.be/IzUyYkakm4Q)](https://youtu.be/IzUyYkakm4Q)
 
 ## fun
 schliessfaecher and flying donuts?!

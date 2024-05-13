@@ -1,7 +1,7 @@
 # UfO
 NOTE: there is no reason not to come to the conclusion that UfO is yet another circle-jerk-unit of parochial little-helpers content with what the goverment has to offer their snouts; with no desire for openness for the sake of serious development.
 like every single charity shitshow, this too is in fact the exception in service to the official rule of misery and political marginalization of whatever does not submit to the status quo.
-claps for UfO charity moths who will never be fooled into the other (fudgepackers welcome)
+
 
 
 <div style="margin-left:auto;margin-right:auto">
@@ -10,6 +10,10 @@ claps for UfO charity moths who will never be fooled into the other (fudgepacker
 <img src="https://as1.ftcdn.net/v2/jpg/02/94/47/40/1000_F_294474007_aMXFhHTbdiYf4qQzbLyFblXJfpJGXQsy.jpg" alt="drawing" style="width:200px" align="center"/>
   </p>
 </div>
+
+
+claps for UfO charity moths who will never be fooled into the other (fudgepackers welcome)
+
 
 # TEKHNE
 

@@ -1,5 +1,7 @@
 # UfO
-@creatures.UfO
+NOTE: there is no reason not to come to the conclusion that UfO is yet another circle-jerk-unit of parochial little-helpers content with what the goverment has to offer their snouts; with no desire for openness or serious development.
+like every single charity shitshow, this too is in fact the exception in service to the official rule of misery and political marginalization of whatever does not submit to the status quo.
+
 
 <div style="margin-left:auto;margin-right:auto">
   <p align="center">

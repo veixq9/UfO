@@ -1,5 +1,5 @@
 # UfO
-@people.UfO
+@creatures.UfO
 
 <div style="margin-left:auto;margin-right:auto">
   <p align="center">
